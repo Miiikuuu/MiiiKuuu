@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miiikuuu/MiiiKuuu/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Miiikuuu/MiiiKuuu/output/github-contribution-grid-snake.svg" alt="Sakura snake animation of my GitHub contributions" width="100%">
+</picture>
+
 <!--
 **Miiikuuu/MiiiKuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
